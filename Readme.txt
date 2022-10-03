@@ -1,1 +1,1 @@
-Lectura
+Lectura + Actualización
